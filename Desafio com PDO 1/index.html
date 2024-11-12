@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Cadastro de Produtos</title>
+</head>
+<body>
+    <form action="insert.php" method="POST">
+        <label for="nomeProduto">Nome do Produto</label>
+        <input type="text" placeholder="Ex: Macarrão de Arroz" id="nomeProduto" nome="productName">
+
+        <label for="descricaoProduto">Descrição do Produto</label>
+        <input type="text" placeholder="Ex: Bifum Rice Vermicelli 200g" id="descricaoProduto" nome="productDescription">
+
+        <label for="precoProduto">Preço do Produto</label>
+        <input type="number" placeholder="Ex: 13.50" id="precoProduto" nome="productPrice">
+
+        <label for="quantidadeProduto">Quantidade em Estoque</label>
+        <input type="number" placeholder="Ex: 35" id="quantidadeProduto" nome="productStock">
+
+        <button type="submit">Cadastrar produto</button>
+    </form>
+</body>
+</html>

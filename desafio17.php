@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Desafio17</title>
+    <title>Cadastro de Alunos</title>
 </head>
 <body>
     <?php

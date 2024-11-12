@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Desafio13</title>
+    <title>Total de Compras</title>
 </head>
 <body>
     <?php 

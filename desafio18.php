@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Desafio18</title>
+    <title>Formulário de Contato Simples</title>
 </head>
 <body>
     <h1>Contato</h1>

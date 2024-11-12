@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Desafio14</title>
+    <title>Palavras com Mais de 5 Letras</title>
 </head>
 <body>
     <?php
